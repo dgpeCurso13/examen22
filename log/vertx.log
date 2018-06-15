@@ -1,0 +1,43 @@
+2018-06-14 22:48:30:287 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6589.00000000"}
+2018-06-14 22:48:58:451 INFO  MyController - Inicializando Vertical
+2018-06-14 22:48:58:946 INFO  MyController - Vertical iniciada !!!
+2018-06-14 22:52:23:045 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6592.06000000"}
+2018-06-14 22:52:28:307 INFO  MyController - Inicializando Vertical
+2018-06-14 22:52:28:700 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:02:11:729 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6615.50000000"}
+2018-06-14 23:02:18:145 INFO  MyController - Inicializando Vertical
+2018-06-14 23:02:18:518 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:05:15:821 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6612.86000000"}
+2018-06-14 23:05:21:235 INFO  MyController - Inicializando Vertical
+2018-06-14 23:05:21:679 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:10:47:574 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6607.00000000"}
+2018-06-14 23:10:51:763 INFO  MyController - Inicializando Vertical
+2018-06-14 23:10:52:116 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:12:09:726 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6604.97000000"}
+2018-06-14 23:12:19:358 INFO  MyController - Inicializando Vertical
+2018-06-14 23:12:19:715 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:19:37:755 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6594.94000000"}
+2018-06-14 23:19:46:540 INFO  MyController - Inicializando Vertical
+2018-06-14 23:19:46:879 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:21:52:900 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6595.53000000"}
+2018-06-14 23:21:57:719 INFO  MyController - Inicializando Vertical
+2018-06-14 23:21:58:098 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:23:33:751 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6601.93000000"}
+2018-06-14 23:23:38:139 INFO  MyController - Inicializando Vertical
+2018-06-14 23:23:38:502 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:24:51:073 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6598.45000000"}
+2018-06-14 23:25:01:461 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6598.51000000"}
+2018-06-14 23:25:05:630 INFO  MyController - Inicializando Vertical
+2018-06-14 23:25:06:015 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:31:32:585 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6594.02000000"}
+2018-06-14 23:31:38:013 INFO  MyController - Inicializando Vertical
+2018-06-14 23:31:38:525 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:35:07:578 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6603.59000000"}
+2018-06-14 23:35:13:949 INFO  MyController - Inicializando Vertical
+2018-06-14 23:35:14:476 INFO  MyController - Vertical iniciada !!!
+2018-06-14 23:40:19:778 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6645.09000000"}
+2018-06-14 23:40:24:638 INFO  MyController - Inicializando Vertical
+2018-06-14 23:40:25:022 INFO  MyController - Vertical iniciada !!!
+2018-06-15 19:28:07:054 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6538.01000000"}
+2018-06-15 19:28:35:041 INFO  MyController - Inicializando Vertical
+2018-06-15 19:28:35:593 INFO  MyController - Vertical iniciada !!!
