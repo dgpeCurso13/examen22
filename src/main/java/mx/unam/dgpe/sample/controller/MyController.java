@@ -172,7 +172,7 @@ private void calcula(RoutingContext routingContext) {
 
         Map<Object, Object> info = new HashMap<>();
         info.put("valor",numero);
-        info.put("Digitos",resultado);
+        info.put("Digitosxx",resultado);
 
         return Json.encodePrettily(info);
     }
